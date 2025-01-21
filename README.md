@@ -25,7 +25,3 @@ I'm also a wine lover 🍷, a dog person 🐶 and a violin student! 🎻
 
 ### 🎨 Misc. Tools and Skills
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
----
-
-<div><a href="https://github.com/lnabesima"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnabesima&layout=compact&langs_count=7&theme=tokyonight"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=lnabesima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a></div>
